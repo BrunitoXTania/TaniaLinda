@@ -5,7 +5,6 @@ throw false
 }
 let pesan = args.join` `
 let oi = `@𝐢𝐭𝐬.𝐛𝐫𝐮𝐧𝐢𝐭𝐨𝐩: ${pesan}`
-
 let teks = `𝐃𝐞𝐬𝐩𝐢𝐞𝐫𝐭𝐞𝐧 𝐏𝐥𝐚𝐧𝐭𝐢𝐭𝐚𝐬 🌿 \n\n
 ❏ ${oi}\n❏ 𝐄𝐭𝐢𝐪𝐮𝐞𝐭𝐚𝐬: \n`
 for (let mem of participants) {
